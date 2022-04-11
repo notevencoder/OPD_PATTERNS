@@ -1,0 +1,7 @@
+C:\Users\AsisT\source\repos\1delewhocares\1delewhocares\bin\Debug\1delewhocares.exe.config
+C:\Users\AsisT\source\repos\1delewhocares\1delewhocares\bin\Debug\1delewhocares.exe
+C:\Users\AsisT\source\repos\1delewhocares\1delewhocares\bin\Debug\1delewhocares.pdb
+C:\Users\AsisT\source\repos\1delewhocares\1delewhocares\obj\Debug\1delewhocares.csproj.AssemblyReference.cache
+C:\Users\AsisT\source\repos\1delewhocares\1delewhocares\obj\Debug\1delewhocares.csproj.CoreCompileInputs.cache
+C:\Users\AsisT\source\repos\1delewhocares\1delewhocares\obj\Debug\1delewhocares.exe
+C:\Users\AsisT\source\repos\1delewhocares\1delewhocares\obj\Debug\1delewhocares.pdb
